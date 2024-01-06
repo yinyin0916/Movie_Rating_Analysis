@@ -4,7 +4,7 @@ In this project, we investigate the movie ratings in both statistical testings a
 
 About Statistical Testings:
   - Statistical_Tests_Analysis.ipynb (contains codings)
-  - Statistical_Tests_Analysis.pdf (our analysis and report)
+  - Statistical_Tests_Analysis.pdf (our analysis and report)  
 About ML:
   - ML_Analysis.ipynb (contains codings)
   - ML_Analysis.pdf (our analysis and report)
